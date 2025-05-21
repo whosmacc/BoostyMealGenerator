@@ -1,0 +1,189 @@
+{
+  "hungerLevel": {
+    "light": {
+      "fresh": 0,
+      "comfort": 0,
+      "energy": 0,
+      "grab_and_go": 0,
+      "filling": 2,
+      "healthy": 0,
+      "energy_boost": 0,
+      "sweet": 0
+    },
+    "medium": {
+      "fresh": 0,
+      "comfort": 0,
+      "energy": 0,
+      "grab_and_go": 0,
+      "filling": 3,
+      "healthy": 0,
+      "energy_boost": 0,
+      "sweet": 0
+    },
+    "high": {
+      "fresh": 0,
+      "comfort": 0,
+      "energy": 0,
+      "grab_and_go": 0,
+      "filling": 4,
+      "healthy": 0,
+      "energy_boost": 0,
+      "sweet": 0
+    }
+  },
+  "mood": {
+    "fresh_energizing": {
+      "fresh": 4,
+      "comfort": 2,
+      "energy": 2,
+      "grab_and_go": 1,
+      "filling": 0,
+      "healthy": 1,
+      "energy_boost": 3,
+      "sweet": 0
+    },
+    "warm_cozy": {
+      "fresh": 0,
+      "comfort": 4,
+      "energy": 2,
+      "grab_and_go": 0,
+      "filling": 0,
+      "healthy": 0,
+      "energy_boost": 1,
+      "sweet": 0
+    },
+    "quick_easy": {
+      "fresh": 0,
+      "comfort": 4,
+      "energy": 2,
+      "grab_and_go": 4,
+      "filling": 0,
+      "healthy": 0,
+      "energy_boost": 3,
+      "sweet": 0
+    },
+    "light_focused": {
+      "fresh": 4,
+      "comfort": 1,
+      "energy": 2,
+      "grab_and_go": 0,
+      "filling": 0,
+      "healthy": 4,
+      "energy_boost": 2,
+      "sweet": 0
+    }
+  },
+  "mealType": {
+    "wrap": {},
+    "sandwich": {},
+    "salad": {},
+    "any": {}
+  },
+  "breadType": {
+    "white": {},
+    "brown": {},
+    "dark brown": {},
+    "sourdough": {},
+    "any": {}
+  },
+  "diet": {
+    "vegetarian": {},
+    "regular": {}
+  },
+  "allergens": {
+    "eggs": {},
+    "nuts": {},
+    "dairy": {},
+    "gluten": {},
+    "none": {}
+  },
+  "drinkCategory": {
+    "fruit": {
+      "caffeine": 0,
+      "hydration": 2,
+      "fresh": 4,
+      "energy": 0,
+      "healthy": 4
+    },
+    "hot": {
+      "caffeine": 0,
+      "hydration": 0,
+      "fresh": 0,
+      "energy": 0,
+      "healthy": 0
+    },
+    "hydrating": {
+      "caffeine": 0,
+      "hydration": 5,
+      "fresh": 0,
+      "energy": 0,
+      "healthy": 0
+    },
+    "comfort": {
+      "caffeine": 0,
+      "hydration": 2,
+      "fresh": 4,
+      "energy": 2,
+      "healthy": 0
+    }
+  },
+  "energyBoost": {
+    "caffeine": {
+      "caffeine": 5,
+      "hydration": 0,
+      "fresh": 0,
+      "energy": 0,
+      "healthy": 0
+    },
+    "refreshing": {
+      "caffeine": 2,
+      "hydration": 0,
+      "fresh": 0,
+      "energy": 0,
+      "healthy": 0
+    },
+    "none": {
+      "caffeine": 0,
+      "hydration": 0,
+      "fresh": 0,
+      "energy": 0,
+      "healthy": 0
+    }
+  },
+  "wantsTreat": {
+    "yes": {},
+    "no": {}
+  },
+  "treatVibe": {
+    "comfort": {
+      "fresh": 0,
+      "comfort": 1,
+      "energy": 0,
+      "grab_and_go": 0,
+      "filling": 0,
+      "healthy": 0,
+      "energy_boost": 0,
+      "sweet": 4
+    },
+    "healthy": {
+      "fresh": 0,
+      "comfort": 0,
+      "energy": 0,
+      "grab_and_go": 0,
+      "filling": 0,
+      "healthy": 3,
+      "energy_boost": 0,
+      "sweet": 0
+    },
+    "natural": {
+      "fresh": 0,
+      "comfort": 0,
+      "energy": 0,
+      "grab_and_go": 2,
+      "filling": 0,
+      "healthy": 0,
+      "energy_boost": 0,
+      "sweet": 0
+    }
+  }
+}

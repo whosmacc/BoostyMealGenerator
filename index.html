@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Boosty Meal Generator</title>
+  <link rel="stylesheet" href="style.css" />
+  <style>
+    h1, h2, h3, h4, h5, h6 {
+      font-family: 'Grift', sans-serif;
+    }
+  </style>
+</head>
+<body>
+  <div class="welcome-screen">
+    <div class="welcome-content">
+      <h1 class="welcome-title">Build your <br />Boosty <br />Lunch!</h1>
+      <div class="welcome-images">
+        <img src="assets/Boosty-tomaat.jpg" alt="Boosty image 1" class="welcome-image rotate1" />
+        <img src="assets/salade-boosty2.jpg" alt="Boosty image 2" class="welcome-image rotate2" />
+        <img src="assets/B12A8732-2.jpg" alt="Boosty image 3" class="welcome-image rotate3" />
+      </div>
+      <p class="welcome-subtitle">Let’s find your perfect meal!</p>
+      <div class="start-button" onclick="startQuiz()">START</div>
+    </div>
+  </div>
+
+  <div id="quiz-container" style="display: none;">
+    <div class="quiz-screen">
+      <div class="quiz-header">
+        <img src="assets/boosty-logo.png" alt="Boosty logo" class="boosty-logo" />
+        <div class="quiz-progress">
+          <div class="progress-bar">
+            <div class="progress-fill"></div>
+          </div>
+        </div>
+      </div>
+
+      <div class="question-container">
+        <h2 class="quiz-question">QUESTION?</h2>
+        <p class="question-subtext">Choose only one answer</p>
+        <div class="options">
+          <button class="option-btn">Answer 1</button>
+          <button class="option-btn">Answer 2</button>
+          <button class="option-btn">Answer 3</button>
+        </div>
+      </div>
+
+      <button class="next-btn">NEXT</button>
+    </div>
+  </div>
+
+  <script type="module" src="script.js"></script>
+</body>
+</html>

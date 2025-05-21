@@ -1,0 +1,267 @@
+.option-btn,
+.next-btn,
+.start-button {
+  transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.option-btn:hover,
+.next-btn:hover,
+.start-button:hover {
+  transform: scale(1.02);
+}
+.back-btn {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin: 24px auto;
+  background: transparent;
+  border: none;
+  color: #F18802;
+  font-size: 16px;
+  font-family: 'Inter', sans-serif;
+  font-weight: 600;
+  cursor: pointer;
+}
+@font-face {
+  font-family: 'Grift';
+  src: url('assets/grith-gw3z1.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+body {
+  background-color: #F0ECE5;
+  margin: 0;
+  font-family: 'Inter', sans-serif;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+html, body {
+  overflow-x: hidden;
+  width: 100%;
+  max-width: 100%;
+  position: relative;
+}
+
+.welcome-screen {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background: #F0ECE5;
+  padding: 40px 20px;
+  box-sizing: border-box;
+}
+
+.welcome-content {
+  text-align: center;
+  max-width: 350px;
+  width: 100%;
+}
+
+.welcome-title {
+  font-family: 'Grift', sans-serif;
+  font-size: 96px;
+  font-weight: 400;
+  color: #1E1E1E;
+  line-height: 90%;
+  letter-spacing: 2.88px;
+  margin-bottom: 12px;
+}
+
+.welcome-images {
+  display: flex;
+  justify-content: center;
+  gap: 8px;
+  margin-bottom: 20px;
+}
+
+.welcome-image {
+  width: 46px;
+  height: 46px;
+  border-radius: 10px;
+  border: 2px solid #fff;
+  object-fit: cover;
+}
+
+.rotate1 { transform: rotate(-3deg); }
+.rotate2 { transform: rotate(2.5deg); }
+.rotate3 { transform: rotate(-2deg); }
+
+
+.welcome-subtitle {
+  font-size: 14px;
+  font-weight: 600;
+  color: #9D9D9D;
+  margin-bottom: 40px;
+}
+
+.start-button {
+  background-color: #F18802;
+  color: white;
+  font-weight: 600;
+  font-size: 16px;
+  border-radius: 12px;
+  width: 100%;
+  padding: 20px 0;
+  cursor: pointer;
+  box-shadow: 0px 52px 15px 0px rgba(0, 0, 0, 0.00),
+              0px 33px 13px 0px rgba(0, 0, 0, 0.01),
+              0px 19px 11px 0px rgba(0, 0, 0, 0.03),
+              0px 8px 8px 0px rgba(0, 0, 0, 0.03),
+              0px 2px 5px 0px rgba(0, 0, 0, 0.03);
+}
+
+.quiz-title {
+  font-family: 'Grift', sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+  color: #1E1E1E;
+  text-align: center;
+  margin: 40px auto 24px auto;
+  letter-spacing: 2.88px;
+  padding: 0 20px;
+  line-height: 90%;
+  max-width: 100%;
+}
+
+.option-btn {
+  width: 100%;
+  height: 54px;
+  padding: 0 16px;
+  font-size: 16px;
+  border: 2.5px solid #F18802;
+  border-radius: 8px;
+  background: #FFFFFF;
+  color: #1E1E1E;
+  font-weight: 600;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0px 52px 15px rgba(0, 0, 0, 0),
+              0px 33px 13px rgba(0, 0, 0, 0.01),
+              0px 19px 11px rgba(0, 0, 0, 0.05),
+              0px 8px 8px rgba(0, 0, 0, 0.09),
+              0px 2px 5px rgba(0, 0, 0, 0.1);
+  margin-bottom: 16px;
+}
+.option-btn.selected {
+  background-color: #F18802;
+  color: white;
+  border-color: #F18802;
+}
+
+.next-btn {
+  background-color: #F18802;
+  color: white;
+  font-weight: 600;
+  font-size: 16px;
+  border-radius: 12px;
+  width: 100%;
+  padding: 20px 0;
+  cursor: pointer;
+  box-shadow: 0px 52px 15px 0px rgba(0, 0, 0, 0.00),
+              0px 33px 13px 0px rgba(0, 0, 0, 0.01),
+              0px 19px 11px 0px rgba(0, 0, 0, 0.03),
+              0px 8px 8px 0px rgba(0, 0, 0, 0.03),
+              0px 2px 5px 0px rgba(0, 0, 0, 0.03);
+  border: none;
+  margin-top: 24px;
+}
+
+
+.result-screen {
+  text-align: center;
+  padding: 40px 25px 40px;
+  font-family: 'Grift', sans-serif;
+  box-sizing: border-box;
+}
+
+.result-title {
+  font-size: 72px;
+  font-weight: 400;
+  line-height: 90%;
+  letter-spacing: 2px;
+  color: #1E1E1E;
+  margin-bottom: 40px;
+}
+
+.result-label {
+  font-family: 'Grift', sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  line-height: 80%;
+  color: #1E1E1E;
+  letter-spacing: 2px;
+  margin: 20px 0 8px;
+}
+
+.result-value {
+  font-family: 'Inter', sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  color: #1E1E1E;
+  margin: 0 0 32px;
+}
+
+.question-card,
+.result-screen {
+  max-width: 500px;
+  width: 100%;
+}
+.question-card {
+  padding: 0 25px 40px;
+  box-sizing: border-box;
+  animation: fadeIn 0.5s ease-in-out;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(12px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.logo-container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin: 20px 0;
+  z-index: 10;
+}
+
+.welcome-screen .logo-container {
+  position: absolute;
+  top: 24px;
+  left: 0;
+  right: 0;
+  display: flex;
+  justify-content: center;
+  z-index: 100;
+}
+
+.boosty-logo {
+  height: 36px;
+  width: auto;
+}
+
+.result-subtitle {
+  font-family: 'Inter', sans-serif;
+  font-size: 14px;
+  font-weight: 600;
+  color: #9D9D9D;
+  margin-top: 32px;
+  text-align: center;
+  display: block;
+}

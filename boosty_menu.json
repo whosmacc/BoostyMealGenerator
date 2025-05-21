@@ -1,0 +1,1176 @@
+{
+  "items": [
+    {
+      "name": "All America",
+      "price": 5.25,
+      "type": "sandwich",
+      "diet": "regular",
+      "allergens": [],
+      "categories": {
+        "fresh": 2,
+        "comfort": 4,
+        "energy": 2,
+        "grab_and_go": 3,
+        "filling": 3,
+        "healthy": 3,
+        "energy_boost": 2
+      },
+      "ingredients": "Filet , egg, red onion, capers"
+    },
+    {
+      "name": "Honey Ham",
+      "price": 5.25,
+      "type": "sandwich",
+      "diet": "regular",
+      "allergens": [],
+      "categories": {
+        "fresh": 2,
+        "comfort": 4,
+        "energy": 2,
+        "grab_and_go": 3,
+        "filling": 3,
+        "healthy": 3,
+        "energy_boost": 3
+      },
+      "ingredients": "Ham, cucumber, arugula, honey mustard dressing"
+    },
+    {
+      "name": "Easy Italian",
+      "price": 5.25,
+      "type": "sandwich",
+      "diet": "vegetarian",
+      "allergens": [],
+      "categories": {
+        "fresh": 5,
+        "comfort": 3,
+        "energy": 4,
+        "grab_and_go": 2,
+        "filling": 2,
+        "healthy": 5,
+        "energy_boost": 4
+      },
+      "ingredients": "mozzarella, roma tomatoes, baby spinach, pesto dressing"
+    },
+    {
+      "name": "Mr. Tuna",
+      "price": 5.25,
+      "type": "sandwich",
+      "diet": "regular",
+      "allergens": [],
+      "categories": {
+        "fresh": 4,
+        "comfort": 4,
+        "energy": 2,
+        "grab_and_go": 2,
+        "filling": 2,
+        "healthy": 4,
+        "energy_boost": 1
+      },
+      "ingredients": "Homemade tuna salad, roma tomatoes, cucumber"
+    },
+    {
+      "name": "Brielicious",
+      "price": 5.25,
+      "type": "sandwich",
+      "diet": "vegetarian",
+      "allergens": [],
+      "categories": {
+        "fresh": 4,
+        "comfort": 2,
+        "energy": 3,
+        "grab_and_go": 2,
+        "filling": 2,
+        "healthy": 5,
+        "energy_boost": 5
+      },
+      "ingredients": "Brie, caramelized walnuts, arugula, honey mustard dressing"
+    },
+    {
+      "name": "Classic Eggs",
+      "price": 5.25,
+      "type": "sandwich",
+      "diet": "vegetarian",
+      "allergens": [],
+      "categories": {
+        "fresh": 3,
+        "comfort": 5,
+        "energy": 4,
+        "grab_and_go": 2,
+        "filling": 5,
+        "healthy": 4,
+        "energy_boost": 3
+      },
+      "ingredients": "Egg salad, roma tomatoes, mixed lettuce"
+    },
+    {
+      "name": "Cheese & Pickles",
+      "price": 5.25,
+      "type": "sandwich",
+      "diet": "vegetarian",
+      "allergens": [],
+      "categories": {
+        "fresh": 2,
+        "comfort": 5,
+        "energy": 3,
+        "grab_and_go": 2,
+        "filling": 2,
+        "healthy": 4,
+        "energy_boost": 4
+      },
+      "ingredients": "Aged cheese, pickles, arugula, creamy mustard dressing"
+    },
+    {
+      "name": "Truffle Delight",
+      "price": 6.25,
+      "type": "sandwich",
+      "diet": "regular",
+      "allergens": [],
+      "categories": {
+        "fresh": 3,
+        "comfort": 5,
+        "energy": 2,
+        "grab_and_go": 2,
+        "filling": 5,
+        "healthy": 3,
+        "energy_boost": 2
+      },
+      "ingredients": "Roast beef, parmesan, arugula, truffle dressing"
+    },
+    {
+      "name": "Boosty BLT",
+      "price": 6.25,
+      "type": "sandwich",
+      "diet": "regular",
+      "allergens": [],
+      "categories": {
+        "fresh": 4,
+        "comfort": 5,
+        "energy": 4,
+        "grab_and_go": 3,
+        "filling": 4,
+        "healthy": 3,
+        "energy_boost": 3
+      },
+      "ingredients": "Aged cheese, egg, crispy bacon, roma tomatoes, arugula, aioli dressing"
+    },
+    {
+      "name": "NoChicken Curry",
+      "price": 6.25,
+      "type": "sandwich",
+      "diet": "vegetarian",
+      "allergens": [],
+      "categories": {
+        "fresh": 3,
+        "comfort": 3,
+        "energy": 4,
+        "grab_and_go": 3,
+        "filling": 3,
+        "healthy": 3,
+        "energy_boost": 3
+      },
+      "ingredients": "Vegan chicken curry, roasted chickpeas, bell pepper, baby spinach"
+    },
+    {
+      "name": "Hummus",
+      "price": 6.25,
+      "type": "sandwich",
+      "diet": "vegetarian",
+      "allergens": [],
+      "categories": {
+        "fresh": 4,
+        "comfort": 3,
+        "energy": 3,
+        "grab_and_go": 2,
+        "filling": 3,
+        "healthy": 4,
+        "energy_boost": 3
+      },
+      "ingredients": "Hummus, grilled zucchini, bell pepper, pine nuts, arugula, pesto dressing"
+    },
+    {
+      "name": "Egg Lover",
+      "price": 6.25,
+      "type": "sandwich",
+      "diet": "regular",
+      "allergens": [],
+      "categories": {
+        "fresh": 4,
+        "comfort": 5,
+        "energy": 3,
+        "grab_and_go": 3,
+        "filling": 4,
+        "healthy": 3,
+        "energy_boost": 3
+      },
+      "ingredients": "Egg salad, crispy bacon, roma tomatoes, mixed lettuce, truffle dressing"
+    },
+    {
+      "name": "Smashing Avocado",
+      "price": 6.25,
+      "type": "sandwich",
+      "diet": "vegetarian",
+      "allergens": [],
+      "categories": {
+        "fresh": 3,
+        "comfort": 4,
+        "energy": 4,
+        "grab_and_go": 3,
+        "filling": 4,
+        "healthy": 4,
+        "energy_boost": 4
+      },
+      "ingredients": "Avocado, goat cheese, mixed lettuce, honey mustard dressing"
+    },
+    {
+      "name": "Dutchy",
+      "price": 6.25,
+      "type": "sandwich",
+      "diet": "regular",
+      "allergens": [],
+      "categories": {
+        "fresh": 3,
+        "comfort": 5,
+        "energy": 3,
+        "grab_and_go": 2,
+        "filling": 5,
+        "healthy": 3,
+        "energy_boost": 2
+      },
+      "ingredients": "Ham, cheese, egg, roma tomatoes, cucumber, pesto dressing"
+    },
+    {
+      "name": "Crunchy Chicken",
+      "price": 7.25,
+      "type": "sandwich",
+      "diet": "regular",
+      "allergens": [],
+      "categories": {
+        "fresh": 3,
+        "comfort": 5,
+        "energy": 3,
+        "grab_and_go": 2,
+        "filling": 5,
+        "healthy": 4,
+        "energy_boost": 3
+      },
+      "ingredients": "Grilled chicken, bacon, avocado, romaine lettuce, mustard mayonnaise"
+    },
+    {
+      "name": "Super Salmon",
+      "price": 7.25,
+      "type": "sandwich",
+      "diet": "regular",
+      "allergens": [],
+      "categories": {
+        "fresh": 5,
+        "comfort": 3,
+        "energy": 4,
+        "grab_and_go": 3,
+        "filling": 4,
+        "healthy": 5,
+        "energy_boost": 3
+      },
+      "ingredients": "Smoked salmon, cream cheese, capers, red onion, mixed lettuce, honey mustard dressing"
+    },
+    {
+      "name": "Classic Club",
+      "price": 7.25,
+      "type": "sandwich",
+      "diet": "regular",
+      "allergens": [],
+      "categories": {
+        "fresh": 4,
+        "comfort": 5,
+        "energy": 4,
+        "grab_and_go": 2,
+        "filling": 5,
+        "healthy": 3,
+        "energy_boost": 3
+      },
+      "ingredients": "Turkey, crispy bacon, roma tomatoes, egg, romaine lettuce, aioli dressing"
+    },
+    {
+      "name": "Spicy Chicken",
+      "price": 7.25,
+      "type": "sandwich",
+      "diet": "regular",
+      "allergens": [],
+      "categories": {
+        "fresh": 3,
+        "comfort": 4,
+        "energy": 5,
+        "grab_and_go": 4,
+        "filling": 3,
+        "healthy": 3,
+        "energy_boost": 4
+      },
+      "ingredients": "Spicy chicken, roma tomatoes, baby spinach, aioli dressing"
+    },
+    {
+      "name": "Carpaccio",
+      "price": 7.25,
+      "type": "sandwich",
+      "diet": "regular",
+      "allergens": [],
+      "categories": {
+        "fresh": 4,
+        "comfort": 4,
+        "energy": 4,
+        "grab_and_go": 2,
+        "filling": 3,
+        "healthy": 4,
+        "energy_boost": 4
+      },
+      "ingredients": "Beef carpaccio, parmesan, pine nuts, arugula, pesto dressing"
+    },
+    {
+      "name": "Korean BBQ Chicken",
+      "price": 7.25,
+      "type": "sandwich",
+      "diet": "regular",
+      "allergens": [],
+      "categories": {
+        "fresh": 2,
+        "comfort": 5,
+        "energy": 3,
+        "grab_and_go": 2,
+        "filling": 5,
+        "healthy": 3,
+        "energy_boost": 3
+      },
+      "ingredients": "Korean-spiced chicken, sweet-sour cucumber, bean sprouts, fried onions, baby spinach, sweet garlic dressing"
+    },
+    {
+      "name": "Asian Tuna",
+      "price": 7.25,
+      "type": "sandwich",
+      "diet": "regular",
+      "allergens": [],
+      "categories": {
+        "fresh": 4,
+        "comfort": 4,
+        "energy": 4,
+        "grab_and_go": 3,
+        "filling": 5,
+        "healthy": 4,
+        "energy_boost": 3
+      },
+      "ingredients": "Tuna salad, avocado, bean sprouts, cashew nuts, Asian dressing"
+    },
+    {
+      "name": "NoChicken Curry",
+      "price": 9.5,
+      "type": "wrap",
+      "diet": "vegetarian",
+      "allergens": [],
+      "categories": {
+        "fresh": 3,
+        "comfort": 3,
+        "energy": 4,
+        "grab_and_go": 4,
+        "filling": 3,
+        "healthy": 4,
+        "energy_boost": 4
+      },
+      "ingredients": "Vegan chicken curry, roasted chickpeas, bell pepper, baby spinach"
+    },
+    {
+      "name": "Korean BBQ Chicken",
+      "price": 11.25,
+      "type": "wrap",
+      "diet": "regular",
+      "allergens": [],
+      "categories": {
+        "fresh": 3,
+        "comfort": 4,
+        "energy": 3,
+        "grab_and_go": 4,
+        "filling": 5,
+        "healthy": 3,
+        "energy_boost": 2
+      },
+      "ingredients": "Korean-spiced chicken, sweet-sour cucumber, bean sprouts, fried onions, baby spinach, sweet garlic dressing"
+    },
+    {
+      "name": "Spicy Chicken",
+      "price": 10.75,
+      "type": "wrap",
+      "diet": "regular",
+      "allergens": [],
+      "categories": {
+        "fresh": 3,
+        "comfort": 5,
+        "energy": 3,
+        "grab_and_go": 4,
+        "filling": 5,
+        "healthy": 3,
+        "energy_boost": 3
+      },
+      "ingredients": "Spicy chicken, roma tomatoes, baby spinach, aioli dressing"
+    },
+    {
+      "name": "Plant Power",
+      "price": 9.75,
+      "type": "wrap",
+      "diet": "vegetarian",
+      "allergens": [],
+      "categories": {
+        "fresh": 4,
+        "comfort": 2,
+        "energy": 4,
+        "grab_and_go": 4,
+        "filling": 2,
+        "healthy": 3,
+        "energy_boost": 2
+      },
+      "ingredients": "Hummus, avocado, roma tomatoes, carrot, roasted pumpkin seeds, mixed lettuce, roasted bell pepper dressing"
+    },
+    {
+      "name": "Chicken Caesar",
+      "price": 10.25,
+      "type": "wrap",
+      "diet": "regular",
+      "allergens": [],
+      "categories": {
+        "fresh": 3,
+        "comfort": 5,
+        "energy": 4,
+        "grab_and_go": 4,
+        "filling": 5,
+        "healthy": 4,
+        "energy_boost": 4
+      },
+      "ingredients": "Grilled chicken, crispy bacon, parmesan, corn, roma tomatoes, romaine lettuce, aioli dressing"
+    },
+    {
+      "name": "Salmon & Avocado",
+      "price": 12.25,
+      "type": "wrap",
+      "diet": "regular",
+      "allergens": [],
+      "categories": {
+        "fresh": 4,
+        "comfort": 5,
+        "energy": 4,
+        "grab_and_go": 4,
+        "filling": 5,
+        "healthy": 5,
+        "energy_boost": 3
+      },
+      "ingredients": "Smoked salmon, avocado, sweet-sour cucumber, red onion, mixed lettuce, aioli dressing"
+    },
+    {
+      "name": "Korean BBQ Chicken",
+      "price": 12.5,
+      "type": "salad",
+      "diet": "regular",
+      "allergens": [],
+      "categories": {
+        "fresh": 5,
+        "comfort": 4,
+        "energy": 3,
+        "grab_and_go": 2,
+        "filling": 5,
+        "healthy": 4,
+        "energy_boost": 3
+      },
+      "ingredients": "Korean-spiced chicken, sweet-sour cucumber, bean sprouts, fried onions, baby spinach, sweet garlic dressing"
+    },
+    {
+      "name": "Greek Veggie",
+      "price": 11.95,
+      "type": "salad",
+      "diet": "vegetarian",
+      "allergens": [],
+      "categories": {
+        "fresh": 5,
+        "comfort": 2,
+        "energy": 4,
+        "grab_and_go": 2,
+        "filling": 3,
+        "healthy": 5,
+        "energy_boost": 4
+      },
+      "ingredients": "Grilled zucchini, bell pepper, red onion, olives, feta, walnuts, roma tomatoes, romaine lettuce, pesto dressing"
+    },
+    {
+      "name": "Grilled Chicken Caesar",
+      "price": 12.75,
+      "type": "salad",
+      "diet": "regular",
+      "allergens": [],
+      "categories": {
+        "fresh": 4,
+        "comfort": 5,
+        "energy": 3,
+        "grab_and_go": 2,
+        "filling": 5,
+        "healthy": 5,
+        "energy_boost": 4
+      },
+      "ingredients": "Grilled chicken, crispy bacon, parmesan, roma tomatoes, corn, egg, croutons, romaine lettuce, aioli dressing"
+    },
+    {
+      "name": "Grilled Prawn & Avocado",
+      "price": 14.5,
+      "type": "salad",
+      "diet": "regular",
+      "allergens": [],
+      "categories": {
+        "fresh": 4,
+        "comfort": 4,
+        "energy": 3,
+        "grab_and_go": 2,
+        "filling": 5,
+        "healthy": 5,
+        "energy_boost": 3
+      },
+      "ingredients": "Grilled prawns, avocado, cashew nuts, carrot, chickpeas, bean sprouts, baby spinach, Asian dressing"
+    },
+    {
+      "name": "Spicy Chicken",
+      "price": 13.25,
+      "type": "salad",
+      "diet": "regular",
+      "allergens": [],
+      "categories": {
+        "fresh": 4,
+        "comfort": 5,
+        "energy": 3,
+        "grab_and_go": 2,
+        "filling": 5,
+        "healthy": 3,
+        "energy_boost": 4
+      },
+      "ingredients": "Spicy chicken, roma tomatoes, baby spinach, aioli dressing"
+    },
+    {
+      "name": "Truffle Delight",
+      "price": 12.5,
+      "type": "salad",
+      "diet": "regular",
+      "allergens": [],
+      "categories": {
+        "fresh": 3,
+        "comfort": 5,
+        "energy": 2,
+        "grab_and_go": 2,
+        "filling": 5,
+        "healthy": 4,
+        "energy_boost": 3
+      },
+      "ingredients": "Roast beef, parmesan, arugula, truffle dressing"
+    },
+    {
+      "name": "Sizzling Chicken",
+      "price": 12.95,
+      "type": "salad",
+      "diet": "regular",
+      "allergens": [],
+      "categories": {
+        "fresh": 4,
+        "comfort": 5,
+        "energy": 4,
+        "grab_and_go": 2,
+        "filling": 5,
+        "healthy": 4,
+        "energy_boost": 4
+      },
+      "ingredients": "Grilled chicken, goat cheese, walnuts, green asparagus, sweet potato, pumpkin seeds, baby spinach, honey mustard dressing"
+    },
+    {
+      "name": "Apple Juice",
+      "price": 2.5,
+      "type": "drink",
+      "diet": "vegan",
+      "allergens": [],
+      "categories": {
+        "caffeine": 0,
+        "hydration": 3,
+        "comfort": 3,
+        "fresh": 5,
+        "energy": 3,
+        "healthy": 3
+      }
+    },
+    {
+      "name": "Mineral Water",
+      "price": 1.75,
+      "type": "drink",
+      "diet": "vegan",
+      "allergens": [],
+      "categories": {
+        "caffeine": 0,
+        "hydration": 5,
+        "fresh": 0,
+        "energy": 1,
+        "healthy": 4
+      }
+    },
+    {
+      "name": "Sparkling Water",
+      "price": 1.75,
+      "type": "drink",
+      "diet": "vegan",
+      "allergens": [],
+      "categories": {
+        "caffeine": 0,
+        "hydration": 5,
+        "fresh": 0,
+        "energy": 1,
+        "healthy": 4
+      }
+    },
+    {
+      "name": "Coca-Cola",
+      "price": 2.25,
+      "type": "drink",
+      "diet": "vegan",
+      "allergens": [],
+      "categories": {
+        "caffeine": 2,
+        "hydration": 3,
+        "comfort": 4,
+        "fresh": 2,
+        "energy": 4,
+        "healthy": 0
+      }
+    },
+    {
+      "name": "Coca-Cola Zero",
+      "price": 2.25,
+      "type": "drink",
+      "diet": "vegan",
+      "allergens": [],
+      "categories": {
+        "caffeine": 2,
+        "comfort": 4,
+        "hydration": 3,
+        "fresh": 2,
+        "energy": 4,
+        "healthy": 2
+      }
+    },
+    {
+      "name": "Ice Tea Green",
+      "price": 2.75,
+      "type": "drink",
+      "diet": "vegan",
+      "allergens": [],
+      "categories": {
+        "caffeine": 1,
+        "comfort": 4,
+        "hydration": 3,
+        "fresh": 3,
+        "energy": 2,
+        "healthy": 3
+      }
+    },
+    {
+      "name": "Ice Tea Sparkling",
+      "price": 2.75,
+      "type": "drink",
+      "diet": "vegan",
+      "allergens": [],
+      "categories": {
+        "caffeine": 1,
+        "comfort": 4,
+        "hydration": 3,
+        "fresh": 3,
+        "energy": 2,
+        "healthy": 3
+      }
+    },
+    {
+      "name": "Lemonaid Lime",
+      "price": 3.25,
+      "type": "drink",
+      "diet": "vegan",
+      "allergens": [],
+      "categories": {
+        "caffeine": 0,
+        "hydration": 4,
+        "fresh": 4,
+        "energy": 4,
+        "healthy": 4
+      }
+    },
+    {
+      "name": "Lemonaid Ginger",
+      "price": 3.25,
+      "type": "drink",
+      "diet": "vegan",
+      "allergens": [],
+      "categories": {
+        "caffeine": 0,
+        "hydration": 4,
+        "fresh": 4,
+        "energy": 4,
+        "healthy": 4
+      }
+    },
+    {
+      "name": "Lemonaid Orange",
+      "price": 3.25,
+      "type": "drink",
+      "diet": "vegan",
+      "allergens": [],
+      "categories": {
+        "caffeine": 0,
+        "hydration": 4,
+        "fresh": 4,
+        "energy": 4,
+        "healthy": 4
+      }
+    },
+    {
+      "name": "Lemonaid Passionfruit",
+      "price": 3.25,
+      "type": "drink",
+      "diet": "vegan",
+      "allergens": [],
+      "categories": {
+        "caffeine": 0,
+        "hydration": 4,
+        "fresh": 4,
+        "energy": 4,
+        "healthy": 4
+      }
+    },
+    {
+      "name": "Fristi",
+      "price": 2.5,
+      "type": "drink",
+      "diet": "vegetarian",
+      "allergens": [
+        "dairy"
+      ],
+      "categories": {
+        "caffeine": 0,
+        "hydration": 3,
+        "comfort": 3,
+        "fresh": 1,
+        "energy": 4,
+        "healthy": 0
+      }
+    },
+    {
+      "name": "Chocolate Milk",
+      "price": 2.5,
+      "type": "drink",
+      "diet": "vegetarian",
+      "allergens": [
+        "dairy"
+      ],
+      "categories": {
+        "caffeine": 0,
+        "hydration": 0,
+        "comfort": 5,
+        "fresh": 2,
+        "energy": 3,
+        "healthy": 2
+      }
+    },
+    {
+      "name": "Coffee",
+      "price": 2.5,
+      "type": "drink",
+      "diet": "vegetarian",
+      "allergens": [],
+      "categories": {
+        "caffeine": 5,
+        "hydration": 1,
+        "comfort": 4,
+        "fresh": 1,
+        "energy": 5,
+        "healthy": 2
+      }
+    },
+    {
+      "name": "Espresso",
+      "price": 2.25,
+      "type": "drink",
+      "diet": "vegetarian",
+      "allergens": [],
+      "categories": {
+        "caffeine": 5,
+        "hydration": 0,
+        "comfort": 3,
+        "fresh": 1,
+        "energy": 5,
+        "healthy": 2
+      }
+    },
+    {
+      "name": "Cappuccino",
+      "price": 2.75,
+      "type": "drink",
+      "diet": "vegetarian",
+      "allergens": [
+        "dairy"
+      ],
+      "categories": {
+        "caffeine": 4,
+        "hydration": 0,
+        "comfort": 4,
+        "fresh": 1,
+        "energy": 5,
+        "healthy": 2
+      }
+    },
+    {
+      "name": "Latte Macchiato",
+      "price": 3.0,
+      "type": "drink",
+      "diet": "vegetarian",
+      "allergens": [
+        "dairy"
+      ],
+      "categories": {
+        "caffeine": 3,
+        "hydration": 0,
+        "comfort": 5,
+        "fresh": 1,
+        "energy": 5,
+        "healthy": 2
+      }
+    },
+    {
+      "name": "Hot Chocolate",
+      "price": 2.95,
+      "type": "drink",
+      "diet": "vegetarian",
+      "allergens": [
+        "dairy"
+      ],
+      "categories": {
+        "caffeine": 0,
+        "hydration": 0,
+        "comfort": 5,
+        "fresh": 1,
+        "energy": 5,
+        "healthy": 2
+      }
+    },
+    {
+      "name": "Fresh Mint Tea",
+      "price": 2.25,
+      "type": "drink",
+      "diet": "vegan",
+      "allergens": [],
+      "categories": {
+        "caffeine": 0,
+        "hydration": 3,
+        "comfort": 4,
+        "fresh": 4,
+        "energy": 3,
+        "healthy": 4
+      }
+    },
+    {
+      "name": "Ginger Tea",
+      "price": 2.25,
+      "type": "drink",
+      "diet": "vegan",
+      "allergens": [],
+      "categories": {
+        "caffeine": 0,
+        "hydration": 3,
+        "comfort": 4,
+        "fresh": 4,
+        "energy": 3,
+        "healthy": 4
+      }
+    },
+    {
+      "name": "Detox Popeye",
+      "price": 4.25,
+      "type": "drink",
+      "diet": "regular",
+      "allergens": [],
+      "categories": {
+        "caffeine": 0,
+        "hydration": 4,
+        "comfort": 4,
+        "fresh": 5,
+        "energy": 5,
+        "healthy": 5
+      }
+    },
+    {
+      "name": "Mango Tango",
+      "price": 4.25,
+      "type": "drink",
+      "diet": "regular",
+      "allergens": [],
+      "categories": {
+        "caffeine": 0,
+        "hydration": 4,
+        "comfort": 4,
+        "fresh": 5,
+        "energy": 5,
+        "healthy": 5
+      }
+    },
+    {
+      "name": "Tropical Berry",
+      "price": 4.25,
+      "type": "drink",
+      "diet": "regular",
+      "allergens": [],
+      "categories": {
+        "caffeine": 0,
+        "hydration": 4,
+        "comfort": 4,
+        "fresh": 5,
+        "energy": 5,
+        "healthy": 5
+      }
+    },
+    {
+      "name": "Dr. Ginger",
+      "price": 4.25,
+      "type": "drink",
+      "diet": "regular",
+      "allergens": [],
+      "categories": {
+        "caffeine": 0,
+        "hydration": 4,
+        "comfort": 4,
+        "fresh": 5,
+        "energy": 5,
+        "healthy": 5
+      }
+    },
+    {
+      "name": "Smoothie of the Day",
+      "price": 4.25,
+      "type": "drink",
+      "diet": "regular",
+      "allergens": [],
+      "categories": {
+        "caffeine": 0,
+        "hydration": 4,
+        "comfort": 4,
+        "fresh": 5,
+        "energy": 5,
+        "healthy": 5
+      }
+    },
+    {
+      "name": "Strawberry",
+      "price": 4.25,
+      "type": "drink",
+      "diet": "regular",
+      "allergens": [],
+      "categories": {
+        "caffeine": 0,
+        "hydration": 4,
+        "comfort": 4,
+        "fresh": 5,
+        "energy": 5,
+        "healthy": 5
+      }
+    },
+    {
+      "name": "Mango",
+      "price": 4.25,
+      "type": "drink",
+      "diet": "regular",
+      "allergens": [],
+      "categories": {
+        "caffeine": 0,
+        "hydration": 4,
+        "comfort": 4,
+        "fresh": 5,
+        "energy": 5,
+        "healthy": 5
+      }
+    },
+    {
+      "name": "Orange",
+      "price": 4.25,
+      "type": "drink",
+      "diet": "regular",
+      "allergens": [],
+      "categories": {
+        "caffeine": 0,
+        "hydration": 4,
+        "comfort": 4,
+        "fresh": 5,
+        "energy": 5,
+        "healthy": 5
+      }
+    },
+    {
+      "name": "Carrot Cake",
+      "price": 4.5,
+      "type": "sweet",
+      "diet": "vegetarian",
+      "allergens": [
+        "nuts",
+        "gluten"
+      ],
+      "categories": {
+        "fresh": 3,
+        "comfort": 3,
+        "energy": 3,
+        "grab_and_go": 1,
+        "filling": 4,
+        "healthy": 3,
+        "energy_boost": 1,
+        "sweet": 3
+      }
+    },
+    {
+      "name": "Coconut Date Cake",
+      "price": 3.5,
+      "type": "sweet",
+      "diet": "vegan",
+      "allergens": [
+        "nuts"
+      ],
+      "categories": {
+        "fresh": 3,
+        "comfort": 2,
+        "energy": 3,
+        "grab_and_go": 4,
+        "filling": 2,
+        "healthy": 4,
+        "energy_boost": 4,
+        "sweet": 4
+      }
+    },
+    {
+      "name": "Croissant",
+      "price": 2.1,
+      "type": "sweet",
+      "diet": "vegetarian",
+      "allergens": [
+        "gluten"
+      ],
+      "categories": {
+        "fresh": 1,
+        "comfort": 5,
+        "energy": 1,
+        "grab_and_go": 5,
+        "filling": 3,
+        "healthy": 3,
+        "energy_boost": 2,
+        "sweet": 1
+      }
+    },
+    {
+      "name": "Pain au Chocolat",
+      "price": 2.1,
+      "type": "sweet",
+      "diet": "vegetarian",
+      "allergens": [
+        "gluten"
+      ],
+      "categories": {
+        "fresh": 1,
+        "comfort": 5,
+        "energy": 2,
+        "grab_and_go": 5,
+        "filling": 2,
+        "healthy": 2,
+        "energy_boost": 2,
+        "sweet": 3
+      }
+    },
+    {
+      "name": "Chocolate Chip Cookie",
+      "price": 2.3,
+      "type": "sweet",
+      "diet": "vegetarian",
+      "allergens": [
+        "gluten"
+      ],
+      "categories": {
+        "fresh": 1,
+        "comfort": 5,
+        "energy": 1,
+        "grab_and_go": 5,
+        "filling": 3,
+        "healthy": 1,
+        "energy_boost": 1,
+        "sweet": 5
+      }
+    },
+    {
+      "name": "Fruit Flapjack",
+      "price": 2.95,
+      "type": "sweet",
+      "diet": "vegan",
+      "allergens": [
+        "gluten"
+      ],
+      "categories": {
+        "fresh": 4,
+        "comfort": 4,
+        "energy": 3,
+        "grab_and_go": 5,
+        "filling": 3,
+        "healthy": 4,
+        "energy_boost": 3,
+        "sweet": 3
+      }
+    },
+    {
+      "name": "Banana-Coconut Cake",
+      "price": 3.95,
+      "type": "sweet",
+      "diet": "vegetarian",
+      "allergens": [
+        "gluten"
+      ],
+      "categories": {
+        "fresh": 3,
+        "comfort": 4,
+        "energy": 2,
+        "grab_and_go": 2,
+        "filling": 4,
+        "healthy": 4,
+        "energy_boost": 2,
+        "sweet": 3
+      }
+    },
+    {
+      "name": "Boosty Signature Cake",
+      "price": 4.25,
+      "type": "sweet",
+      "diet": "vegetarian",
+      "allergens": [
+        "gluten"
+      ],
+      "categories": {
+        "fresh": 2,
+        "comfort": 5,
+        "energy": 3,
+        "grab_and_go": 2,
+        "filling": 5,
+        "healthy": 2,
+        "energy_boost": 2,
+        "sweet": 4
+      }
+    },
+    {
+      "name": "Caramel Shortcake (Gluten-Free)",
+      "price": 4.25,
+      "type": "sweet",
+      "diet": "vegetarian",
+      "allergens": [],
+      "categories": {
+        "fresh": 1,
+        "comfort": 5,
+        "energy": 4,
+        "grab_and_go": 3,
+        "filling": 4,
+        "healthy": 1,
+        "energy_boost": 3,
+        "sweet": 5
+      }
+    }
+  ]
+}
